@@ -1,26 +1,34 @@
 /* style.css */
 body{
-  background: rgb(245,245,245);
+  background: #E6E5E6;
   color: black;
-  font-size: 15px;
-  font-family: Calibri;
-}
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;}
+
 h1{
-  font-family: Arial;
   color: red;
   font-weight: lighter;
-  font-size: 15px;
+  font-size: 18px;
 }
 h2 {
-  font-family: Arial;
-  color: blue;
+  color: #0466D6;
   font-weight: lighter;
-  font-size: 12px;
+  font-size: 15px;
 }
 a {
-  color: orange;
+  color: black;
 }
 a:hover {
   text-decoration: none;
   color: green;
+}
+
+.green-title {
+  color: #39715A;
+  font-weight: 15px
+}
+
+.orange-title {
+  color: orange;
+  font-weight: 15px
 }
