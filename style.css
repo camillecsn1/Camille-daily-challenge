@@ -1,0 +1,26 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 15px;
+  font-family: Calibri;
+}
+h1{
+  font-family: Arial;
+  color: red;
+  font-weight: lighter;
+  font-size: 15px;
+}
+h2 {
+  font-family: Arial;
+  color: blue;
+  font-weight: lighter;
+  font-size: 12px;
+}
+a {
+  color: orange;
+}
+a:hover {
+  text-decoration: none;
+  color: green;
+}
